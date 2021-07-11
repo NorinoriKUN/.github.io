@@ -151,3 +151,8 @@ body {
     animation-delay: 0s;
     animation-duration: 11s;
 }
+
+
+.g-recaptcha {
+    z-index: 999;
+}
